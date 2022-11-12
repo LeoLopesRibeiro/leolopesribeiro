@@ -6,6 +6,11 @@
   <a href="https://github.com/leolopesribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolopesribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolopesribeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+    <p align="center"> 
+
+   <img src="https://github-profile-trophy.vercel.app/?username=LeolopesRibeiro&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
+
+ </p>
 </div>
   
   <div style="display: inline_block"><br>
